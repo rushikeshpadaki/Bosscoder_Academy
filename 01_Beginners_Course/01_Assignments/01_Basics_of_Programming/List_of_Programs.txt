@@ -1,0 +1,63 @@
+=========================================================
+                 Java Basics Program Collection
+                   Author: Rushikesh Padaki
+                      Date: April 2025
+=========================================================
+
+This repository contains beginner-level Java programs that demonstrate
+fundamental programming concepts such as user input, arithmetic operations,
+and output formatting. Each program is designed to be simple, interactive,
+and educational.
+
+---------------------------------------------------------
+| No. |         Program Name          |   Description    |
+---------------------------------------------------------
+|  1  | Remainder                     | Calculates the   |
+|     |                               | remainder of two |
+|     |                               | integers.        |
+---------------------------------------------------------
+|  2  | NaturalNumberSum              | Computes the sum |
+|     |                               | of first n       |
+|     |                               | natural numbers. |
+---------------------------------------------------------
+|  3  | IntegerInput                  | Reads an integer |
+|     |                               | input and prints |
+|     |                               | it.              |
+---------------------------------------------------------
+|  4  | Subtraction                   | Subtracts second |
+|     |                               | integer from the |
+|     |                               | first.           |
+---------------------------------------------------------
+|  5  | Addition                      | Adds two         |
+|     |                               | integers.        |
+---------------------------------------------------------
+|  6  | AdditionOfThreeNumbers        | Adds three       |
+|     |                               | integers.        |
+---------------------------------------------------------
+|  7  | Division                      | Divides two      |
+|     |                               | integers and     |
+|     |                               | handles divide-  |
+|     |                               | by-zero case.    |
+---------------------------------------------------------
+|  8  | Multiplication                | Multiplies two   |
+|     |                               | integers.        |
+---------------------------------------------------------
+|  9  | Average                       | Calculates and   |
+|     |                               | prints the       |
+|     |                               | average of two   |
+|     |                               | numbers.         |
+---------------------------------------------------------
+
+Usage Instructions:
+---------------------------------------------------------
+- Each program contains its own `main` method.
+- Compile using: `javac ProgramName.java`
+- Run using:     `java ProgramName`
+- All programs take console input using Scanner.
+
+Notes:
+---------------------------------------------------------
+- The Scanner object is properly closed in each program
+  to avoid resource leaks.
+- Programs are beginner-friendly and useful for Java
+  programming practice and demonstrations.
