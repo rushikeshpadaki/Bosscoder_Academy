@@ -1,0 +1,47 @@
+=========================================================
+              Conditional Statements Program Collection
+                   Author: Rushikesh Padaki
+                      Date: April 2025
+=========================================================
+
+This repository contains beginner-level Java programs that demonstrate
+conditional statements such as `if`, `if-else`, and ternary operators.
+Each program is designed to be simple, interactive, and educational.
+
+---------------------------------------------------------
+| No. |         Program Name          |   Description    |
+---------------------------------------------------------
+|  1  | EvenOrOdd                     | Checks whether   |
+|     |                               | a number is even |
+|     |                               | or odd.          |
+---------------------------------------------------------
+|  2  | CheckPositive                 | Checks if the    |
+|     |                               | number is        |
+|     |                               | positive.        |
+---------------------------------------------------------
+|  3  | MultipleOfThree               | Determines if a  |
+|     |                               | number is a      |
+|     |                               | multiple of 3.   |
+---------------------------------------------------------
+|  4  | LeapYear                      | Checks whether a |
+|     |                               | year is a leap   |
+|     |                               | year or not.     |
+---------------------------------------------------------
+|  5  | MaximumOfTwoNumbers           | Finds the        |
+|     |                               | maximum of two   |
+|     |                               | numbers.         |
+---------------------------------------------------------
+
+Usage Instructions:
+---------------------------------------------------------
+- Each program contains its own `main` method.
+- Compile using: `javac ProgramName.java`
+- Run using:     `java ProgramName`
+- All programs take console input using Scanner.
+
+Notes:
+---------------------------------------------------------
+- The Scanner object is properly closed in each program
+  to avoid resource leaks.
+- Programs are beginner-friendly and useful for Java
+  programming practice and demonstrations.
